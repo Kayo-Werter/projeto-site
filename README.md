@@ -1,2 +1,3 @@
 # projeto-site
- Projeto de um site criado durante um curso de Git e GitHub
+ Esse repositório foi criado para fins didáticos sobre a utilização do Git e do GitHub
+ 
